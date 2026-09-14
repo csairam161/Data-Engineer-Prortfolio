@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order>
+        <order_id>O1001</order_id>
+        <customer_id>C1001</customer_id>
+        <order_date>2026-01-20</order_date>
+        <product>Cloud Storage Plan</product>
+        <quantity>2</quantity>
+        <unit_price>49.99</unit_price>
+        <status>COMPLETED</status>
+    </order>
+    <order>
+        <order_id>O1002</order_id>
+        <customer_id>C1002</customer_id>
+        <order_date>2026-01-21</order_date>
+        <product>Data Analytics Plan</product>
+        <quantity>1</quantity>
+        <unit_price>99.99</unit_price>
+        <status>COMPLETED</status>
+    </order>
+    <order>
+        <order_id>O1003</order_id>
+        <customer_id>C1003</customer_id>
+        <order_date>2026-01-22</order_date>
+        <product>ETL Processing Plan</product>
+        <quantity>3</quantity>
+        <unit_price>39.99</unit_price>
+        <status>PENDING</status>
+    </order>
+    <order>
+        <order_id>O1004</order_id>
+        <customer_id>C9999</customer_id>
+        <order_date>2026-01-23</order_date>
+        <product>Data Integration Plan</product>
+        <quantity>0</quantity>
+        <unit_price>79.99</unit_price>
+        <status>COMPLETED</status>
+    </order>
+</orders>
